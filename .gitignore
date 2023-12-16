@@ -1,0 +1,11 @@
+# Ignore .out files
+*.out
+
+# Ignore Vim temporary files
+*.sw[a-z]
+*.swo
+*.swn
+*.swp
+
+# Handy bash script to use git
+save_to_repo.sh
