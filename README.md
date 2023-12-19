@@ -11,7 +11,7 @@ Sorting is the process of arranging items in a specific order, like numerical or
 - **Merge Sort**: It's a <ins>divide-and-conquer</ins> algorithm that divides the list into smaller parts, sorts them individually, and merges them back together in order.
 - **Quick Sort**: It also uses the <ins>divide-and-conquer</ins> strategy by picking an element as a pivot, partitioning the list around the pivot, and recursively sorting the sublists.
 
-## Why Sorting Algorithms?
+## Why Different Sorting Algorithms?
 Learning about sorting algorithms helps in choosing the right one for specific tasks. Some are faster for smaller lists, while others are more efficient for larger datasets.
 
 ## Big O Notation
